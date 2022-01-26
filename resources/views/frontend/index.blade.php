@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Siêu thị Điện máy XANH - Mua bán điện tử, điện lạnh, gia dụng</title>
+        <title>Siêu thị Điện máy Đỏ - Mua bán điện tử, điện lạnh, gia dụng</title>
         <meta name="keywords" content="Siêu thị điện máy, điện tử, điện lạnh, gia dụng, đồ dùng nhà bếp, điện máy xanh" />
         <meta name="description" content="Siêu thị Điện máy Xanh mua sắm thiết bị điện tử điện lạnh, gia dụng, sản phẩm công nghệ. Mua online tại dienmayxanh.com giá tốt phục vụ chuyên nghiệp tận tâm." />
         <meta property="og:title" content="Siêu thị Điện máy XANH - Mua bán điện tử, điện lạnh, gia dụng" />
