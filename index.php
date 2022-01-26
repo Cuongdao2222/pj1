@@ -998,7 +998,7 @@
                             <div class="item-img">
                                 <img data-src="https://cdn.tgdd.vn/Products/Images/2162/219668/jammy-am4218-18-300x300.jpg" class="lazyload" alt="Loa k&#xE9;o Karaoke Jammy AM4218" width=210 height=210>
                             </div>
-                            <p class='result-label temp5'><img width='20' height='20' class='lazyload' alt='Tết 2022 Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon5-50x50.png'><span>Tết 2022 Giảm Sốc</span></p>
+                            <p class='result-label temp5'><img width='20' height='20' class='lazyload' alt='Tết 2022 Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon5-50x50.png'><span>Tết 2099 Giảm Sốc</span></p>
                             <h3>Loa kéo Karaoke Jammy AM4218</h3>
                             <div class="item-compare">
                                 <span>600 W</span>
